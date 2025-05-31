@@ -1,0 +1,26 @@
+{
+  "Truemeds": {
+    "urlTemplate": "https://www.truemeds.in/search/{medicine}",
+    "nameClass": ".sc-a39eeb4f-12.daYLth",
+    "priceClass": ".sc-a39eeb4f-17.iwZSqt",
+    "enabled": true
+  },
+  "PharmEasy": {
+    "urlTemplate": "https://pharmeasy.in/search/all?name={medicine}",
+    "nameClass": ".ProductCard_medicineName__Uzjm7",
+    "priceClass": ".ProductCard_unitPriceDecimal__Ur26V",
+    "enabled": true
+  },
+  "Tata 1mg": {
+    "urlTemplate": "https://www.1mg.com/search/all?filter=true&name={medicine}",
+    "nameClass": ".style__pro-title___3G3rr",
+    "priceClass": ".style__price-tag___KzOkY",
+    "enabled": true
+  },
+  "Netmeds": {
+    "urlTemplate": "https://www.netmeds.com/catalogsearch/result/{medicine}/all",
+    "nameClass": ".clsgetname",
+    "priceClass": ".final-price",
+    "enabled": true
+  }
+}
